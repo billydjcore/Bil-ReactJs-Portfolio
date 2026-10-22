@@ -1,0 +1,90 @@
+[
+  {
+    "title": "CITI Bank POS System",
+    "imageSrc": "projects/project.png",
+    "description": "Point of Sale application used in Bank Transactions",
+    "skills": ["C#", "WPF", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "IGeko Customer Mapping Tool",
+    "imageSrc": "projects/project.png",
+    "description": "Pin the location of Customers in Google Map and provide customer information sales, etc.",
+    "skills": ["ASP.Net", "C#", "Google Maps Api", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NAKS POS and Rewards System",
+    "imageSrc": "projects/project.png",
+    "description": "Points and rewards application that convert customer purchases of Nestle products to points and corresponding rewards",
+    "skills": ["C#", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NAKS POS and Rewards System",
+    "imageSrc": "projects/project.png",
+    "description": "Points and rewards application that convert customer purchases of Nestle products to points and corresponding rewards",
+    "skills": ["C#", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "MOBDIS/NEXT SMS Messaging Application",
+    "imageSrc": "projects/project.png",
+    "description": "SMS Messaging Application that provide useful information to Nestle Distributor staff and customers",
+    "skills": ["C#", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SoloTrader Admin/Client",
+    "imageSrc": "projects/project.png",
+    "description": "Forex Accounts Managing Software that monitors gains and losses of accounts subscribers in FOREX exchange",
+    "skills": ["C#","WPF","WCF"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Auto-Withdraw/Deposit Application",
+    "imageSrc": "projects/project.png",
+    "description": "Facilitate auto-withdraw and deposit requested by online gamers.",
+    "skills": ["C#","WPF","Selenium","REST API","Chrome/Internet Explorer"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "IT Asset Monitoring System",
+    "imageSrc": "projects/project.png",
+    "description": "Manage Company IT Assets and generate reports",
+    "skills": ["C#","ASP.Net MVC","MS SQL Express"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SoloTrader Admin/Client",
+    "imageSrc": "projects/project.png",
+    "description": "Forex Accounts Managing Software that monitors gains and losses of accounts subscribers in FOREX exchange",
+    "skills": ["C#","WPF","WCF"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "LRA-Philaris-CO Application",
+    "imageSrc": "projects/project.png",
+    "description": "Land titling application used to capture Land title information of piece of land.",
+    "skills": ["C#","Sybase SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "LRA- MUT Map Utility Tool",
+    "imageSrc": "projects/project.png",
+    "description": "Provide land title overview, parcel information, Location tagging, Maps, etc. ",
+    "skills": ["C#","WPF","ArcGIS","Sybase SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

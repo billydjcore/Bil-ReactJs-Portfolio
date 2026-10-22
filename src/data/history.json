@@ -1,0 +1,52 @@
+[
+  {
+    "role": "Developer III",
+    "organisation": "Land Registrations Systems Inc.",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Land Titling Automation Systems.  "],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Senior C# Applications Developer",
+    "organisation": "2 Success Inc",
+    "startDate": "March, 2016",
+    "endDate": "June, 2024",
+    "experiences": ["Developed Auto-withdraw/ Deposit Application, IT Asset Management System"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "C# Programmer",
+    "organisation": "Londa Online Technologies",
+    "startDate": "Feb, 2013",
+    "endDate": "Feb, 2016",
+    "experiences": [
+      "Worked on SoloTrafer Forex Application Admin/ Client",
+      "Work on Charts and Reports generation"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "System Analyst/Programmer",
+    "organisation": "Radix System Services-Nestle Philippines Inc",
+    "startDate": "Nov, 2008",
+    "endDate": "Feb, 2013",
+    "experiences": [
+      "Developed SMS Messaging System",
+      "Developed Points Reward System",
+      "Developed Import/Export Data utilities"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Programmer/Technical Consultant",
+    "organisation": "Corinthian IT Solutions",
+    "startDate": "May, 2008",
+    "endDate": "Nov, 2008",
+    "experiences": [
+      "Worked on CITI Bank Point of Sale Application",
+      "Developed Inventory System"      
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]
