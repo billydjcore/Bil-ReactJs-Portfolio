@@ -16,15 +16,36 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Angular",
+    "imageSrc": "skills/Angular_icon.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "c#",
+    "imageSrc": "skills/cSharp_icon.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql_icon.png"
+  }
+  ,
+  {
+    "title": ".Net Core",
+    "imageSrc": "skills/dotnetcore_icon.png"
+  },
+  {
+    "title": "Appium",
+    "imageSrc": "skills/Appium.png"
+  },
+  {
+    "title": "Selenium",
+    "imageSrc": "skills/selenium_icon.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript_icon.png"
+  },
+  {
+    "title": "Rest API",
+    "imageSrc": "skills/restapi_icon.png"
   }
 ]

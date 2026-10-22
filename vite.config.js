@@ -9,4 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  base: "/Bil-ReactJs-Portfolio"
 });

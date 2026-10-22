@@ -38,6 +38,10 @@
   gap: 25px;
 }
 
+.imageContact {
+  size: 5px;
+}
+
 .link a {
   color: var(--color-text);
   text-decoration: none;
